@@ -1,6 +1,6 @@
 # What is this for?
 
-Get an image api or discord
+Get an imfage api for discord
 
 # Installation
 
